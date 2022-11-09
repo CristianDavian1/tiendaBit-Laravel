@@ -8,5 +8,6 @@
   <img src="images/img3.png" width="950" title="hover text">
   <img src="images/img4.png" width="950" title="hover text">
   <img src="images/img5.png" width="950" title="hover text">
+  <img src="images/img6.png" width="950" title="hover text">
 
 </p
