@@ -1,0 +1,69 @@
+#navInicio{
+
+  width: 20%;
+  height: auto;
+  position: static;
+  
+
+}
+.navOptions span{
+
+  margin: 0px;
+  
+}
+#cartas{
+
+  width: 25%;
+  display: inline-flex;
+  margin: 10px;
+  
+  
+  
+}
+.card-img-top{
+
+  width: 350px;
+  height: 270px;
+}
+#cuerpo{
+
+  background-color: rgb(15, 14, 15);
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+#card-bg{
+
+  
+  max-width: 100%;
+  padding: 0%;
+  margin: 0%;
+  overflow: auto;
+  
+}
+small{
+
+  display: inline-flex;
+  color: rgb(0, 4, 255);
+}
+img{
+
+  cursor: pointer;
+}
+#likes{
+
+  cursor: pointer;
+  
+}
+#likes :hover{
+
+  color: blue;
+  
+}
+a:link, a:visited, a:active{
+
+  text-decoration: none;
+  
+}
